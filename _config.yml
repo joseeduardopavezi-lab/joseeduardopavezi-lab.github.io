@@ -1,0 +1,7 @@
+# GitHub Pages: as páginas são HTML prontas (sem front matter, o Jekyll só copia).
+# Publica a pasta .well-known (security.txt) e deixa de fora as ferramentas de geração.
+include:
+  - .well-known
+exclude:
+  - _ferramentas
+  - README.md

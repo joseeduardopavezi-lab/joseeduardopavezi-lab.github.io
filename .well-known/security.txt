@@ -1,0 +1,5 @@
+Contact: mailto:joseeduardopavezi@gmail.com
+Expires: 2027-10-23T00:00:00.000Z
+Preferred-Languages: pt, en
+Canonical: https://joseeduardopavezi-lab.github.io/.well-known/security.txt
+Policy: https://joseeduardopavezi-lab.github.io/privacidade.html
